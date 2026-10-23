@@ -6,4 +6,4 @@ def linear_search(arr,target):
 arr=[10,50,20,30]
 target=20
 result=linear_search(arr,target)
-print("Element found at index:",result)
+print("Element found at index:",result)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
